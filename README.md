@@ -1,2 +1,2 @@
 # Test
-This project is a student who want to learn how to use github.
+This project was created by a student who want to learn how to use github.
